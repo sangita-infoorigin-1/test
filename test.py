@@ -15,4 +15,8 @@ class test:
 def show(x):
     print(x)
 
+def show_test(x):
+    print(x)
+
+
 
